@@ -45,7 +45,3 @@ group :development do
   gem 'bullet'
   gem 'letter_opener_web'
 end
-
-group :production do
-  gem 'mysql2'
-end
