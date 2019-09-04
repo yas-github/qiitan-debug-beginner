@@ -66,9 +66,9 @@ rails s
 
 ### テスト開始準備
 
-ブランチを切り替えてからテスト実施してください。 
+ブランチ作成＆切り替えてから実施してください。 
 ```
-git checkout debug-test
+git checkout -b [TeamName]-debug
 ```
 
 ## メールの確認について
