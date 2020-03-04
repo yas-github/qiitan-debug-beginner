@@ -155,7 +155,7 @@ GEM
       mini_portile2 (~> 2.4.0)
     popper_js (1.14.5)
     public_suffix (3.0.3)
-    puma (3.12.0)
+    puma (3.12.4)
     rack (2.0.6)
     rack-dev-mark (0.7.7)
       rack (>= 1.1, < 2.1)
@@ -279,7 +279,7 @@ DEPENDENCIES
   kaminari
   letter_opener_web
   listen (>= 3.0.5, < 3.2)
-  puma (~> 3.11)
+  puma (~> 3.12)
   rack-dev-mark
   rails (~> 5.2.2)
   rails-assets-toastr!
